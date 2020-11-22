@@ -1,0 +1,14 @@
+Package: sp-220-series-gdi
+Version: 1.01
+Section: System Environmnet/Base
+Priority: optional
+Depends: 
+Suggests: 
+Architecture: amd64
+Installed-Size: 276
+Maintainer: PRIMAX<service@pek.destiny.com.cn>
+Provides: RICOH
+Description: Printer driver
+   This is a GDI driver for SP 200 series printers.
+
+
